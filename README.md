@@ -13,7 +13,7 @@ TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 SCSS: A CSS preprocessor that adds power and elegance to the basic language.
 
 - [DEMO LINK](https://RuslanHnatyshyn.github.io/react_todo-app-with-api/)
-  
+
 Features:
 
 Toggling a Todo Status.
@@ -22,6 +22,6 @@ Additional Instructions.
 
 Setup Instructions:
 
-1.git clone https://github.com/RuslanHnatyshyn/react-todo-app.git
-2.npm i 
-3.npm start
+1. git clone https://github.com/RuslanHnatyshyn/react-todo-app.git
+2. npm i
+3. npm start
